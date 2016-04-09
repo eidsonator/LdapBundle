@@ -1,9 +1,15 @@
 {
-    "name": "imag/ldap-bundle",
+    "name": "eidsonator/ldap-bundle",
     "description": "LDAP Bundle for Symfony 2",
-    "homepage": "http://github.com/BorisMorel/LdapBundle",
+    "homepage": "http://github.com/eidsonator/LdapBundle",
     "license": "CeCILL",
     "authors": [
+        {
+            "name": "Todd Eidson",
+            "email": "todd@eidson.info",
+            "role": "Developer",
+            "homepage" : "https://github.com/eidsonator"
+        },
         {
             "name": "Boris Morel",
             "email": "boris.morel@imag.fr",
